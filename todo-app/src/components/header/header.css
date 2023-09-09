@@ -1,0 +1,27 @@
+
+.custom-navbar {
+    background-color: #007bff; 
+    color: #fff; 
+    padding: 10px; 
+    font-size: 14px; 
+}
+
+  .custom-navbar .navbar-brand {
+    font-size: 44px; 
+    font-weight: bold; 
+    text-transform: uppercase; 
+  }
+  
+
+  .custom-navbar a {
+    color: #fff; 
+    font-size: 38px; 
+    margin-right: 77px; 
+    text-decoration: none; 
+    transition: color 0.3s;
+  }
+  
+  .custom-navbar a:hover {
+    color: #3a300a; 
+  }
+  
