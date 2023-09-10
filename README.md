@@ -1,6 +1,16 @@
 # To-Do List App
 
-## https://todo-app-bnrz.onrender.com/
+## Deploy netlify
+
+## https://64fdd84f5e5dc32b167bbe0d--luminous-stroopwafel-971a96.netlify.app/
+
+## Link on netlify
+
+![Admin](./todo-app/./assets/netlify.PNG)
+
+## Live app
+
+![Admin](./todo-app/./assets/live.PNG)
 
 ## login as Admin
 
